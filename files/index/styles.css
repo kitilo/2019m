@@ -950,6 +950,7 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
+  background-color:rgba(0, 0, 0, 0.6);
   background-image:none;
 }
 #u29_state0_content {
