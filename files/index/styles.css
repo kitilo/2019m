@@ -134,7 +134,7 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(242, 242, 242, 1);
   background-image:none;
 }
 #u3_state0_content {
@@ -207,13 +207,20 @@
   width:320px;
   word-wrap:break-word;
 }
-#u6_img {
+#u6_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:320px;
   height:560px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u6 {
   border-width:0px;
@@ -539,7 +546,7 @@
   width:220px;
   height:472px;
   background:inherit;
-  background-color:rgba(102, 102, 102, 1);
+  background-color:rgba(51, 51, 51, 1);
   border:none;
   border-radius:14px;
   -moz-box-shadow:none;
@@ -571,7 +578,7 @@
   width:216px;
   height:468px;
   background:inherit;
-  background-color:rgba(51, 51, 51, 1);
+  background-color:rgba(0, 0, 0, 1);
   border:none;
   border-radius:12px;
   -moz-box-shadow:none;
