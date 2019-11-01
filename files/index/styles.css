@@ -135,7 +135,7 @@
   overflow-x:hidden;
   -ms-overflow-y:hidden;
   overflow-y:hidden;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(255, 255, 255, 1);
   background-image:none;
 }
 #u3_state0_content {
@@ -219,9 +219,9 @@
   background-color:rgba(255, 255, 255, 1);
   border:none;
   border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  -moz-box-shadow:0px 5px 30px rgba(0, 0, 0, 0.0470588235294118);
+  -webkit-box-shadow:0px 5px 30px rgba(0, 0, 0, 0.0470588235294118);
+  box-shadow:0px 5px 30px rgba(0, 0, 0, 0.0470588235294118);
 }
 #u6 {
   border-width:0px;
