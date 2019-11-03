@@ -5868,6 +5868,7 @@
   width:80px;
   height:30px;
   overflow:hidden;
+  visibility:hidden;
 }
 #u192_state0 {
   border-width:0px;
