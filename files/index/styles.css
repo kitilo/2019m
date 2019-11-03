@@ -475,7 +475,7 @@
   width:320px;
   height:200px;
   background:inherit;
-  background-color:rgba(0, 0, 0, 0.6);
+  background-color:rgba(0, 0, 0, 0.8);
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
@@ -3523,7 +3523,6 @@
   font-weight:400;
   font-style:normal;
   font-size:20px;
-  color:#FFFFFF;
   text-align:left;
   line-height:40px;
 }
@@ -3538,7 +3537,6 @@
   font-weight:400;
   font-style:normal;
   font-size:20px;
-  color:#FFFFFF;
   text-align:left;
   line-height:40px;
 }
